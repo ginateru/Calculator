@@ -27,7 +27,7 @@ int main()
             break;
 
          case 2:  
-            cout << "Raznost ravna " << MyRazanost(a,b) << endl;  
+            cout << "Raznost ravna " << MyRaznost(a,b) << endl;  
             break;
 
 		case 3:  
