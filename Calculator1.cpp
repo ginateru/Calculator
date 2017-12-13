@@ -8,7 +8,8 @@ using namespace std;
 
 int main()
 {
-	int a, b, n;
+	double a, b;
+	int n;
 
 	cout << "Vvedite a: ";
 	cin >> a;
@@ -26,7 +27,7 @@ int main()
             break;
 
          case 2:  
-            cout << "Funkciya v razrabotke " << endl;  
+            cout << "Raznost ravna " << MyRazanost(a,b) << endl;  
             break;
 
 		case 3:  
@@ -43,4 +44,4 @@ int main()
 
 system("pause");
 return 0;
-}
+}
