@@ -12,3 +12,8 @@ double MyRaznost(double a, double b)
 {
 	return a - b;
 }
+
+double MyMult(double a, double b)
+{
+	return a * b;
+}

@@ -16,7 +16,7 @@ int main()
 	cout << "Vvedite b: ";
 	cin >> b;
 
-	cout << "Vvedite ¹ operacii. 1 - slojenie, 2 - vichitanie, 3 - umnojenie, 4 - delenie" << endl;
+	cout << "Vvedite nomer operacii. 1 - slojenie, 2 - vichitanie, 3 - umnojenie, 4 - delenie" << endl;
 	cin >> n;
 
 
@@ -31,7 +31,7 @@ int main()
             break;
 
 		case 3:  
-            cout << "Funkciya v razrabotke " << endl;  
+            cout << "Proizvedenie ravno " << MyMult(a,b) << endl;  
             break;
 
 		case 4:  
