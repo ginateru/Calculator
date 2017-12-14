@@ -4,4 +4,5 @@
 double MySum(double, double);
 double MyRaznost(double, double);
 double MyMult(double, double);
+double MyDelenie(double, double);
 #endif // __FUNCS_H__

@@ -35,7 +35,7 @@ int main()
             break;
 
 		case 4:  
-            cout << "Funkciya v razrabotke " << endl;  
+            cout << "Chastnoe ravno " << MyDelenie(a,b) << endl;  
             break;
 
          default:  

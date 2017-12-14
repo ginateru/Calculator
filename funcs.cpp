@@ -17,3 +17,8 @@ double MyMult(double a, double b)
 {
 	return a * b;
 }
+
+double MyDelenie(double a, double b)
+{
+	return a / b;
+}
